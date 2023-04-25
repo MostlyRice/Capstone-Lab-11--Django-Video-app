@@ -1,0 +1,14 @@
+db.sqlite3
+
+# python-related
+__pycache__
+*.pyc
+
+# ignore editor-specific files 
+.vscode
+.idea
+
+# ignore virtual enviroments 
+venv
+env
+.env
